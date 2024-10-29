@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\C#\\TasksForHome\\Task16 - Delegate\\Delegate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4D727D-02FD-408A-9973-55C897F360EA}|Delegate\\Delegate.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\c#\\tasksforhome\\task16 - delegate\\delegate\\delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4D727D-02FD-408A-9973-55C897F360EA}|Delegate\\Delegate.csproj|solutionrelative:delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4D727D-02FD-408A-9973-55C897F360EA}|Delegate\\Delegate.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\c#\\tasksforhome\\task16 - delegate\\delegate\\delegate\\models\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4D727D-02FD-408A-9973-55C897F360EA}|Delegate\\Delegate.csproj|solutionrelative:delegate\\models\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4D727D-02FD-408A-9973-55C897F360EA}|Delegate\\Delegate.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\c#\\tasksforhome\\task16 - delegate\\delegate\\delegate\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4D727D-02FD-408A-9973-55C897F360EA}|Delegate\\Delegate.csproj|solutionrelative:delegate\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\C#\\TasksForHome\\Task16 - Delegate\\Delegate\\Delegate\\Program.cs",
+              "RelativeDocumentMoniker": "Delegate\\Program.cs",
+              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\C#\\TasksForHome\\Task16 - Delegate\\Delegate\\Delegate\\Program.cs",
+              "RelativeToolTip": "Delegate\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T13:47:55.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\C#\\TasksForHome\\Task16 - Delegate\\Delegate\\Delegate\\Models\\Exam.cs",
+              "RelativeDocumentMoniker": "Delegate\\Models\\Exam.cs",
+              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\C#\\TasksForHome\\Task16 - Delegate\\Delegate\\Delegate\\Models\\Exam.cs",
+              "RelativeToolTip": "Delegate\\Models\\Exam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T21:02:12.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\C#\\TasksForHome\\Task16 - Delegate\\Delegate\\Delegate\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "Delegate\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\C#\\TasksForHome\\Task16 - Delegate\\Delegate\\Delegate\\Models\\Person.cs",
+              "RelativeToolTip": "Delegate\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T13:48:55.509Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
